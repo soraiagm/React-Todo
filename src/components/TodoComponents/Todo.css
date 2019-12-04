@@ -46,8 +46,9 @@ input, .add-button, .clear-todo {
     font-size: 1rem;
 }
 
-.todo.completed {
+/* .todo:visited, 
+.todo:focus,
+.todo:active {
     text-decoration: line-through;
-    background-color: lightgrey;
-}
+} */
 
